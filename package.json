@@ -1,0 +1,16 @@
+{
+  "name": "img-tobe-lazy",
+  "version": "0.1.0",
+  "description": "A JavaScript library for lazy loading of static assets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lazy",
+    "loading",
+    "images"
+  ],
+  "author": "Juljan M.",
+  "license": "MIT"
+}
